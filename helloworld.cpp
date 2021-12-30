@@ -1,7 +1,7 @@
 #include <iostream>
 
 void frogy() {
-    std::cout << "grape";
+    std::cout << "frogy";
     std::cout << "additional code\n";
 }
 
@@ -14,7 +14,7 @@ void hi() {
 }
 
 void banana() {
-	std::cout << "banana";
+	std::cout << "bananananana";
 }
 
 int main() {
