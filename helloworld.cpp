@@ -6,6 +6,7 @@ void frogy() {
 }
 
 int add(int a, int b) {
+    std::cout << a << std::endl;
     return a + b;
 }
 
